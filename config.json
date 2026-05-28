@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevave",
+        "uuid": 22547374,
+        "checksum": "rdz1hc"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
